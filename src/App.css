@@ -1,0 +1,15 @@
+body {
+  padding: 100px;
+}
+
+.square {
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+
+.square-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 160px;
+}
